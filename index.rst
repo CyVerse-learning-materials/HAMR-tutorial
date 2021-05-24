@@ -129,27 +129,6 @@ Application(s) used
       - |CyVerse_launch|
       - |Original App Documentation|
 
-
-Input and example data
-~~~~~~~~~~~~~~~~~~~~~~
-
-*In order to complete this tutorial you will need to have the following inputs prepared*
-
-..
-	#### comment: delete any row not needed in this table ####
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input File(s)
-      - Format
-      - Preparation/Notes
-      - Example Data
-    * -
-      -
-      -
-      -
-
 ----
 
 **Fix or improve this documentation**
